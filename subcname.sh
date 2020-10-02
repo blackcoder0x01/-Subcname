@@ -1,4 +1,5 @@
 #!/bin/bash
+#clear
 if [ ! "$1" ]; then
 	echo "Missing parameter"
 	echo "Please Used ./subcname.sh weblist.txt"
